@@ -1,3 +1,7 @@
+## 6.3.31
+
+* Fixes WebView content being obscured by system navigation bar on Android 15+.
+
 ## 6.3.30
 
 * Updates internal implementation to use Kotlin Pigeon.
